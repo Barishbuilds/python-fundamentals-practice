@@ -21,12 +21,7 @@ I created this repository to organize my Python learning in a clean and systemat
 
 ## Current Focus
 Right now, I am focused on:
-- writing clean Python code
-- improving problem-solving skills
-- understanding core programming concepts deeply
+-writing clean Python code
+-improving problem-solving skills
+-understanding core programming concepts deeply
 
-## Next Steps
-I plan to expand this repository with:
-- more structured exercises
-- mini Python projects
-- NumPy and Pandas practice
