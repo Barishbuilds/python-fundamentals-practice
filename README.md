@@ -18,3 +18,15 @@ This repository contains my structured Python practice as I build a strong found
 
 ## Why I Made This
 I created this repository to organize my Python learning in a clean and systematic way while preparing for machine learning projects.
+
+## Current Focus
+Right now, I am focused on:
+- writing clean Python code
+- improving problem-solving skills
+- understanding core programming concepts deeply
+
+## Next Steps
+I plan to expand this repository with:
+- more structured exercises
+- mini Python projects
+- NumPy and Pandas practice
